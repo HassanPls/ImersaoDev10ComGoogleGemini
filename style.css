@@ -90,6 +90,7 @@ div input:focus {
 
 main {
     overflow-y: scroll; /* Adiciona uma barra de rolagem vertical se o conteúdo exceder a altura */
+    overflow-x: hidden;
     max-width: 80rem; /* Largura máxima do conteúdo principal */
     margin: 0 auto; /* Centraliza o conteúdo principal horizontalmente */
     margin-top: 2rem; /* Margem no topo */
@@ -237,4 +238,18 @@ article a:hover {
     button { /* Estilos para o botão em telas muito pequenas */
         margin-top: 1rem; /* Adiciona margem no topo */
     }
+}
+
+main::-webkit-scrollbar {
+  width: 12px;
+}
+
+main::-webkit-scrollbar-track {
+  background: var(--bg-color);
+}
+
+main::-webkit-scrollbar-thumb {
+  background-color: var(--primary-color);
+  border-radius: 20px;
+  border: 3px solid var(--bg-color);
 }

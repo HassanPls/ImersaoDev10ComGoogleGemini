@@ -52,5 +52,17 @@
     "descricao": "A Teoria dos Conjuntos é o ramo da matemática que estuda as coleções de elementos. Um conjunto é uma coleção não ordenada de objetos.",
     "ano": "1° ano do Ensino Médio",
     "link": "https://www.todamateria.com.br/matematica/conjuntos/"
+  },
+  {
+    "nome": "Matemática Financeira",
+    "descricao": "Estuda o comportamento do dinheiro no tempo, abordando juros, investimentos e financiamentos.",
+    "ano": "3° ano do Ensino Médio",
+    "link": "https://www.todamateria.com.br/matematica/matematica-financeira/"
+  },
+  {
+    "nome": "Análise Combinatória",
+    "descricao": "Área da matemática que estuda técnicas de contagem para determinar o número de agrupamentos possíveis em um conjunto.",
+    "ano": "2° ano do Ensino Médio",
+    "link": "https://www.todamateria.com.br/matematica/analise-combinatoria-e-probabilidade/"
   }
 ]
