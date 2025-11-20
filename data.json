@@ -1,0 +1,56 @@
+[
+  {
+    "nome": "Aritmética",
+    "descricao": "A aritmética é uma área da matemática que estuda os números e as operações básicas.",
+    "ano": "3° ano",
+    "link": "https://www.todamateria.com.br/matematica/aritmetica/"
+  },
+  {
+    "nome": "Álgebra",
+    "descricao": "A álgebra é um ramo da matemática que utiliza símbolos e letras para representar números e expressar relações matemáticas.",
+    "ano": "4° ano",
+    "link": "https://www.todamateria.com.br/matematica/algebra/"
+  },
+  {
+    "nome": "Geometria",
+    "descricao": "A geometria é o ramo da matemática que estuda as formas, tamanhos e posições das figuras e as propriedades do espaço.",
+    "ano": "5° ano",
+    "link": "https://www.todamateria.com.br/geometria/"
+  },
+  {
+    "nome": "Trigonometria",
+    "descricao": "A trigonometria é a área da matemática que estuda as relações entre os comprimentos dos lados e os ângulos de um triângulo.",
+    "ano": "8° ano",
+    "link": "https://www.todamateria.com.br/trigonometria/"
+  },
+  {
+    "nome": "Estatística",
+    "descricao": "Estatística é o ramo da matemática que coleta, organiza, analisa e interpreta dados.",
+    "ano": "9° ano",
+    "link": "https://www.todamateria.com.br/estatistica/"
+  },
+  {
+    "nome": "Funções",
+    "descricao": "Função é uma regra que relaciona cada elemento de um conjunto (domínio) a um único elemento de outro conjunto (contradomínio).",
+    "ano": "9° ano",
+    "link": "https://www.todamateria.com.br/funcoes/"
+  },
+  {
+    "nome": "Progressões (PA e PG)",
+    "descricao": "Progressão Aritmética (PA) e Progressão Geométrica (PG) são sequências numéricas que seguem um padrão determinado.",
+    "ano": "1° ano do Ensino Médio",
+    "link": "https://www.todamateria.com.br/matematica/progressoes/"
+  },
+  {
+    "nome": "Matrizes",
+    "descricao": "Matrizes são tabelas de números organizados em linhas e colunas, utilizadas para organizar dados e em diversas aplicações matemáticas.",
+    "ano": "2° ano do Ensino Médio",
+    "link": "https://www.todamateria.com.br/matrizes/"
+  },
+  {
+    "nome": "Conjuntos",
+    "descricao": "A Teoria dos Conjuntos é o ramo da matemática que estuda as coleções de elementos. Um conjunto é uma coleção não ordenada de objetos.",
+    "ano": "1° ano do Ensino Médio",
+    "link": "https://www.todamateria.com.br/matematica/conjuntos/"
+  }
+]
